@@ -25,13 +25,12 @@
 
 ## Requirements
 ### 1. 개발 환경
-- Window 10,  Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, RAM 16.GB, 64bit
+- Window 10, Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, RAM 16.GB, 64bit
 - conda 4.8.1, Python 3.7.3, IPython 7.6.1, Jupyter Notebook 6.0.0
 
 ### 2. 필요 라이브러리
 - numpy
 - pandas
-- joblib
 - konlpy
 - lightgbm 
 - sklearn 
@@ -47,7 +46,7 @@
 ~~~
 ├──  README.md
 ├──  code_notebook.ipynb
-
+~~~
    
 ## Author
 - Ho Young Jeong @hotorch

@@ -45,7 +45,9 @@
 
 ~~~
 ├──  README.md
-├──  code_notebook.ipynb
+├──  Dacon_14th_Competition_code.ipynb
+├──  train.csv
+├──  public_test.csv
 ~~~
    
 ## Author

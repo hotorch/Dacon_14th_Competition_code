@@ -39,7 +39,7 @@
 ## 파일 설명 및 구조
    - train.csv : 훈련 데이터입니다. 데이터는 공유가 불가능합니다.
    - public_test.csv : 가채점 테스트 데이터입니다. 데이터는 공유가 불가능합니다.
-   
+   - Dacon_14th_Competition_code.ipynb : 전처리부터 모델 학습, 예측 등의 코드와 설명이 담겨있습니다.
 - 데이터 설명 : https://newfront.dacon.io/competitions/official/235401/data?join=1
 - 다운로드 : 스폰서의 요청으로 대회 종료 후에는 데이터를 다운 받을 수 없습니다
 
@@ -48,6 +48,9 @@
 ├──  Dacon_14th_Competition_code.ipynb
 ├──  train.csv
 ├──  public_test.csv
+└── /dacon14_images
+    ├── 1_TF.JPG
+    ├── 2_Weighting_table.JPG
 ~~~
    
 ## Author

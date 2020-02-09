@@ -60,6 +60,8 @@
 
 ## Result
 - Overall Rank : 1st Place (스팸구이)
-- Auc Rank : 1st Place
-- Inference time Rank : 2nd Place
-- Reference : https://dacon.io/competitions/official/235401/leaderboard/
+- Auc Rank : 1st Place (0.999405)
+- Inference time Rank : 2nd Place (6.827sec)
+- Reference 
+   - https://dacon.io/competitions/official/235401/leaderboard/
+   - https://www.facebook.com/dacon.io/posts/1300265250144887

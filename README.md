@@ -1,7 +1,5 @@
 # Dacon 14회 금융문자 분석 경진대회
 
-**잠시 스폰서의 요청으로 코드를 임시로 내리게 되었습니다. 나중에 올릴 수 있다고 하니 기다려주시면 감사하겠습니다.(20.02.13)** 
-
 ## 모델
 - 자연어처리에서 임베딩을 하는 것은 매우 중요한 작업이며, 이에 대한 접근법은 크게 3가지가 있습니다. (출처 : 한국어 임베딩, 이기창 저)
    - a. Language Model : 단어가 어떤 순서로 쓰였는가? (ELMo, GPT, etc)
@@ -53,6 +51,8 @@
 └── /dacon14_images
     ├── 1_TF.JPG
     ├── 2_Weighting_table.JPG
+    ├── 3_Smishing_Case.JPG
+    ├── 4_NonSmishing_Case.JPG
 ~~~
    
 ## Author
